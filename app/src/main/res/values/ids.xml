@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <item name="nameEditText" type="id" />
+    <item name="addressEditText" type="id" />
+    <item name="pincodeEditText" type="id" />
+    <item name="continueToPaymentBtn" type="id" />
+    <item name="tvNotification" type="id"  />
+  =
+    <item name="notificationRecyclerView" type="id" />
+    <item name="notificationLayout" type="id" />
+</resources>

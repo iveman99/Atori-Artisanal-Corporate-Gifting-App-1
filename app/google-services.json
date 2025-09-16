@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1072927766104",
+    "project_id": "mahima-6bc1e",
+    "storage_bucket": "mahima-6bc1e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072927766104:android:338e2fea4f8ede6c613c2d",
+        "android_client_info": {
+          "package_name": "com.example.atoriadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB14P6pczTMUA2KPQyu7uFk-uqvRVMLXWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072927766104:android:68d7cd8f708b8886613c2d",
+        "android_client_info": {
+          "package_name": "com.example.buynow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB14P6pczTMUA2KPQyu7uFk-uqvRVMLXWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

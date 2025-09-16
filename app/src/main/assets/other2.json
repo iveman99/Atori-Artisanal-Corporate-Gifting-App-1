@@ -1,0 +1,54 @@
+[
+  {
+    "productName": "Electric Kettle",
+    "productId": "1",
+    "productPrice": "0",
+    "productDes": "This stainless steel kettle features a durable design and a flat heating element for rapid boiling and easy cleaning. an indicator light shows when water is boiling, and it automatically shuts off afterward. the 360-degree rotating base and heat-resistant plastic handle ensure safe handling.",
+    "productRating": 4.7,
+    "productDisCount": "12%",
+    "productHave": true,
+    "productBrand": "Home Accessories",
+    "productImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIlnX1INanDj_YDJY1YHkldyDeCbLWCTvOxXqaX_Wj8V3xeeWroV46VoZ2b-vjyXAW0ngaJHVYbfBnbzi3cXiBxInPHmp0jJMGOhAQfeCq0jqbujur5aopUOCUk7eaex8TI_B09lUPARpOQv1Cyjg9PJONziLaUetiPlcKWLTdT4TOVbuYr_q41aKAEaDd/s320/Screenshot_9-3-2025_14518_.jpeg",
+    "productCategory": "Other2",
+    "productNote": "Home Accessories"
+  },
+  {
+    "productName": "Mini Bottle Juicer",
+    "productId": "2",
+    "productPrice": "0",
+    "productDes": "This little body light weight design is easy for you carry it to school,\n office, parks, camping, anywhere you want to. and it also convenient\n for charge by power bank, laptop, computer, car or other usb devices.\n It has smart safety protection device, magnetic sensing switch ultra safe to use and clean, the juicer cup's body and bottom can be separated.",
+    "productRating": 3.2,
+    "productDisCount": "",
+    "productHave": false,
+    "productBrand": "FLASKS & BOTTLES\n",
+    "productImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVGjUeC1GnkHEHd8gjQEZgpTp-7QYJYRwcx-s1ub-o4d_rggr0-f_ZROpNzSjPlXBgOdCnnM35PvLwN1QwWmlF_t07rAjKR3JAUcETpUZuEZY3mBnAht0nCTUisLoVKV4f4ZSSNozCzVRUrlLFajDLMQSg6EA02fppS4f6wG0iN7MUrGZ8dm1ItPotOOqb/s320/Screenshot_9-3-2025_17224_.jpeg",
+    "productCategory": "Other2",
+    "productNote": " FLASKS & BOTTLES\n"
+  },
+  {
+    "productName": "Sling Bag (Black/Grey)\n with logo",
+    "productId": "3",
+    "productPrice": "0",
+    "productDes": "Stylish cross-body bag, with adjustable sling handle and a big front\n pocket. A perfect size, this bag will help accommodate just the right\n daily essentials and can be carried to for a casual outing. Brand with your company logo for a neat and impressive finish.",
+    "productRating": 4.2,
+    "productDisCount": "10%",
+    "productHave": true,
+    "productBrand": "OFFICE/TRAVEL BAGS\n",
+    "productImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTf9GiD7I1lwDS4Ww-3oJa6x_t_pQp6MAPeaxuZuP7YKG9jokS0FVNt4haBWNmSvYjyjQWFK3vfB58OepRP5u_bZB1j9Yn0QoichFiMQI-1HAS1OKkqbv-sMi3QYlP2q22noEK3Uzy8ZmaTHdQYGGCHVxvP3dnSNdTXesvFybfxHjqzUTCFjoI7eULVPjv/s320/Screenshot_9-3-2025_173345_.jpeg",
+    "productCategory": "Other2",
+    "productNote": "OFFICE/TRAVEL BAGS\n"
+  },
+  {
+    "productName": "3-in-1 Motivational Bottle Set",
+    "productId": "4",
+    "productPrice": "0",
+    "productDes": "Designed with time marker and inspirational quotes, this bottle set is perfect for helping you stay motivated to drink enough water\n throughout the day. Featured with translucent appearance and\n capacity scale helps you measure your daily intake of water easily\n and clearly. Perfect choice for workouts, running, hiking, cycling,biking, camping, Yoga, or any other sports.",
+    "productRating": 4.2,
+    "productDisCount": "6%",
+    "productHave": true,
+    "productBrand": "FLASKS AND BOTTLES",
+    "productImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzOx6adkO3ts3fNOoKLd6X4xERs3rnUILKuVgOpzetwHW1jmkhp8162J0u4FZ_lPcr0NcJV4kxmnVMKXDeHWGGnZHqiHYCgsi1H3OrrJY-9bLRbfHNbBDDXmxrKlf5WY1tPNMze4z6LZ-UhTJbq-7QQf705dLbbh4veSMhNS5KtDLefiGzBoYcgp7em5l_/s320/Screenshot_9-3-2025_17304_.jpeg",
+    "productCategory": "Other2",
+    "productNote": "FLASKS AND BOTTLES"
+  }
+]

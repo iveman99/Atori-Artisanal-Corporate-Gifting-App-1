@@ -1,0 +1,56 @@
+[
+  {
+    "productName": "Thank you Hamper",
+    "productId": "1",
+    "productPrice": "0",
+    "productDes": "Gratitude hampers for customers booking trips with The Travel Pedia to help\n maintain loyalty and long term relationships.",
+    "productRating": 4.7,
+    "productDisCount": "12%",
+    "productHave": true,
+    "productBrand": "The Travel Pedia",
+    "productImage": "https://blogger.googleusercontent.com/img/a/AVvXsEieXixbSmHrncyYJ_eZb14ZbDsXi9i71q-A-pGtHo9uwAfGZZwH-7VWG9kOHq4R_N4DijkNF0iCbnZTnLM6DtPdPR78Xm-1wkeKfLsC66Lha1Bq3f86k7j2ibCuBIB9yUY6OfxjSYN6dsyIiHe1GnX9bUqHrEijSt1xrWZnAgyopWhTFFay3C5TdVDN9bPp=w157-h210",
+    "productCategory": "Hamper1",
+    "productNote": "The Travel Pedia"
+  },
+  {
+    "productName": "DIWALI HAMPERS",
+    "productId": "2",
+    "productPrice": "0",
+    "productDes": "Simple, classy & elegant hampers filled the beautiful fragrance of candles & the goodness of cookies & granola, personalized with name tags on boxes.",
+    "productRating": 4.2,
+    "productDisCount": "10%",
+    "productHave": true,
+    "productBrand": "Auto Hangar\n",
+    "productImage": "https://static.wixstatic.com/media/8c63ce_48e324a6d2d640b7ba451511b04acc72~mv2.jpg/v1/fill/w_625,h_834,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8c63ce_48e324a6d2d640b7ba451511b04acc72~mv2.jpg",
+    "productCategory": "Hamper1",
+    "productNote": "Auto Hangar\n"
+  },
+
+
+  {
+    "productName": "WOMEN’S DAY HAMPERS",
+    "productId": "3",
+    "productPrice": "0",
+    "productDes": "Women’s Day Gift Hampers in personalized Metal Trunks with fragranced candles and gourmet goodies.",
+    "productRating": 4.2,
+    "productDisCount": "10%",
+    "productHave": true,
+    "productBrand": "Wishtree Technologies\n",
+    "productImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiffdrdAKiGTWIA0lduu5Js1y-AqP7YBP4f8uanelKQDeoOdx6Ht05UXHoRFXWEups4L4ek1GUqJlZ1jzOBKFHYZZXLBAyVX85w66o-og4sM0FCtqgf3sQQOL0IDdBLkPlg4gn8W8l-uo50Eo2gTKJGHLjz1zwne85qKPFlwZ2eBo7bPz4QzOqzuIOTS-d/w214-h281/Screenshot_19-3-2025_181911_.jpeg",
+    "productCategory": "Hamper1",
+    "productNote": "Wishtree Technologies\n"
+  },
+  {
+    "productName": "Rakshabandhan Hampers",
+    "productId": "4",
+    "productPrice": "0",
+    "productDes": "For Rakshabandhan, we have curated a luxurious Keepsake Hamper, thoughtfully designed to celebrate the special bond between siblings with style and appreciation..",
+    "productRating": 4.2,
+    "productDisCount": "10%",
+    "productHave": true,
+    "productBrand": "Personal\n",
+    "productImage": "https://static.wixstatic.com/media/8c63ce_47831db36afa4ee8842ccbb9709a6902~mv2.png/v1/fill/w_625,h_834,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/8c63ce_47831db36afa4ee8842ccbb9709a6902~mv2.png",
+    "productCategory": "Hamper1",
+    "productNote": "Personal\n"
+  }
+]

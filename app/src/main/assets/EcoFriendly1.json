@@ -1,0 +1,54 @@
+[
+  {
+    "productName": "MemoPad",
+    "productId": "1",
+    "productPrice": "0",
+    "productDes": "This diary-style desk organizer measures approximately 7.5 x 4.5 inches and includes three sizes of sticky note pads, a clip holder, and a pen. It features 50 yellow (4 x 3 inches) and pink (3 x 2 inches) sticky notes.",
+    "productRating": 4.7,
+    "productDisCount": "12%",
+    "productHave": true,
+    "productBrand": "ECO-FRIENDLY RANGE\n",
+    "productImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj04NUvBWpfYpBXRy-8KHnkABCkVB6i4jEgACrPyG_1efdsnuyvJY9Tj7ZeIEiS2CiaRDunM5UOFLFiZOEEQXG9y7kCT0ADGGrErb2s9nvSJj7ajOhxpHsw5aS2g1PaDnrULL89X5oGTCxbNyPTWMRvV7SgdyBN83x1N8nzF2b1KXgaHiuwFUaeuPlceRiu/s320/Screenshot_9-3-2025_1167_.jpeg",
+    "productCategory": "ecofriendly1",
+    "productNote": "ECO-FRIENDLY RANGE"
+  },
+  {
+    "productName": "Eco-friendly Natural Sippers",
+    "productId": "2",
+    "productPrice": "0",
+    "productDes": "An eco-friendly natural cup made from rice husk. It comes in two different sized and lids. Great for gifting.",
+    "productRating": 3.2,
+    "productDisCount": "",
+    "productHave": false,
+    "productBrand": "ECO-FRIENDLY RANGE\n",
+    "productImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh1dcW2_Yl-dvS8EuNz2cbFk7Is0KnDdthkP5ytxomtGI6fX70jQvpWEaso38uXCE3F0VGLpzMl8NwdgY5BAFjufhCTyx3MaHkGCRPqFcA1J34O-y2jNz810Nm0gPrrBplVlgVs48ytJU4aJCvD4sxNrs7NixYi-7YfO1ymJUjnOwDkDgOk6oS7-GnzuHI/s320/Screenshot_9-3-2025_11826_.jpeg",
+    "productCategory": "ecofriendly1",
+    "productNote": "ECO-FRIENDLY RANGE\n"
+  },
+  {
+    "productName": "Eco-friendly Storage Bowl",
+    "productId": "3",
+    "productPrice": "0",
+    "productDes": "Eco-friendly storage bowls made with rice husk\n",
+    "productRating": 4.2,
+    "productDisCount": "10%",
+    "productHave": true,
+    "productBrand": "ECO-FRIENDLY RANGE\n",
+    "productImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPph1BeDxJT-a5B0tDKZpAWKzM3Z-1uExLynn7inkiXNU5ae7O8WBfhmEycaV33Lco1oz2tnstzsRFjZTqAlDy-uyMsceP1_vXzW9L_gzQua0mtETJlInwN5Dw0T6bLIeMcjH9IicqMV3oolwix11J3ZyKlmuNh2OmXtH4XDugfbtUxzGeOFLaZOP3Zfry/s320/Screenshot_9-3-2025_12046_.jpeg",
+    "productCategory": "ecofriendly1",
+    "productNote": "ECO-FRIENDLY RANGE\n"
+  },
+  {
+    "productName": "Cube Memopad",
+    "productId": "4",
+    "productPrice": "0",
+    "productDes": "Stay organized and eco-conscious with our brown sticky note pad made from sustainable materials. Featuring various sticky note sizes in a compact cardboard sleeve, it's perfect for home, office, or on-the-go.",
+    "productRating": 4.2,
+    "productDisCount": "6%",
+    "productHave": true,
+    "productBrand": "ECO-FRIENDLY RANGE",
+    "productImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCA62Ntvehb4lPDACApILOBOOBEjTtP-iOId6JddTO4jmtN9OPf2PvV0wNHBYeLu8HPTYIIRi3BrDNy0YXgpA3l2F-EkLzbD33AgaqGmPrrrhhyFC29mVL6Oth80FuEPuj7513hSHjzhCXCJyJlsJUOYWf_GhA9skV4GC7NRELU1iLXxCEe1GIb8udmOiw/s320/Screenshot_9-3-2025_12244_.jpeg",
+    "productCategory": "ecofriendly1",
+    "productNote": "ECO-FRIENDLY RANGE"
+  }
+]

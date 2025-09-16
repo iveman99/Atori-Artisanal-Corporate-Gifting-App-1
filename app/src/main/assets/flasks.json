@@ -1,0 +1,54 @@
+[
+  {
+    "productName": "Coffee Mug(W)",
+    "productId": "1",
+    "productPrice": "0",
+    "productDes": "Introducing our sleek black stainless steel water bottle with a 750ml capacity. Designed for everyday use, it features a stylish cap and is perfect for school, the office, or home. Lightweight, leakproof, and compact, it fits standard drink holders.",
+    "productRating": 4.7,
+    "productDisCount": "12%",
+    "productHave": true,
+    "productBrand": "FLASKS & BOTTLE\n",
+    "productImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMhRF_MKjIbYlsUtP7U_v3CuFS52XHRnFYKve2EbqnGqsgD8lued8bpxfAHt0kRGQ2U0niLvT7TSOsMzOR8I2zoVg4o1Vx6mXrkCkzM0ps7pyW0jPH2dQdsUWu3kBCANVjr7jdKb1e5ili88EoFzUxOmy0cgqaKLTQgWBl255PVZ00uSrtfgEOrd5U9zVi/s320/Screenshot_8-3-2025_224854_.jpeg",
+    "productCategory": "flasks",
+    "productNote": "FLASKS & BOTTLE"
+  },
+  {
+    "productName": "Coffee Mug (Temp W)",
+    "productId": "2",
+    "productPrice": "0",
+    "productDes": "This double-wall vacuum insulated travel mug keeps beverages hot or iced for 12 hours, making it perfect for outdoor adventures and road trips. Featuring a leak-proof lid and non-slip base, it’s easy to operate with one hand, ensuring convenience for coffee,tea.",
+    "productRating": 3.2,
+    "productDisCount": "",
+    "productHave": false,
+    "productBrand": "FLASKS & BOTTLE\n",
+    "productImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAIIeebm0aKYsDKYiF0dp2OwEmIgyZBcd52RE5jYHebCCuHU3o6J9g_LrzNBHg4xH1nXFMUeTfq5arFOliKAuXmv288Qo8lkxPNRWVAWEXLNohOWan4VzbWUYZXnbfemesbRgUF8t0yvZwVDrT4Bw38xEXVntoqbh3wO1PZP7aYeb1Wm8IHLuTMr5ToQgj/s320/Screenshot_8-3-2025_22273_.jpeg",
+    "productCategory": "Mugs and Flasks",
+    "productNote": "FLASKS & BOTTLE\n"
+  },
+  {
+    "productName": "Coffee Mug(Temp B)",
+    "productId": "3",
+    "productPrice": "0",
+    "productDes": "This double-wall vacuum insulated travel mug keeps beverages hot or iced for 12 hours, making it perfect for outdoor adventures and road trips. Featuring a leak-proof lid and non-slip base, it’s easy to operate with one hand, ensuring convenience for coffee, tea.",
+    "productRating": 4.2,
+    "productDisCount": "10%",
+    "productHave": true,
+    "productBrand": "FLASKS & BOTTLE\n",
+    "productImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj50WVZGeGF5CqLAb47qUHx9ZEy6rgT1y5aqTkF49Zx0NxvSKYiN-vKW2bbY8LE7lT_-VfzDmjxzs86PhPw4rsR_I7DApz_cnjc_IHPEskebGPzxtBbMlN-sOqztnUGYRPRcR_ectt-a2WXutnY8XEpQeO9FBnF2pHfIjxeVDss2ZoDvd0MyYc1MxMHmkxc/s320/Screenshot_8-3-2025_222956_.jpeg",
+    "productCategory": "Mugs and Flasks",
+    "productNote": "FLASKS & BOTTLE\n"
+  },
+  {
+    "productName": "Ceramic Coffee Mug with Warmer, Lid & Spoon",
+    "productId": "4",
+    "productPrice": "0",
+    "productDes": "This electric coffee mug is designed to keep your beverage at constant temperature throughout the day, helping you have warm, delicious tea/coffee/soup anytime & anywhere. Made of water-proof tempered glass, the warmer area is 3.5 in diameter.",
+    "productRating": 4.2,
+    "productDisCount": "6%",
+    "productHave": true,
+    "productBrand": "FLASKS AND BOTTLES",
+    "productImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ6AYDd8vLHACAEts9rFpjNObV3m5EzDcOwnZS4KFhB4lSQMQnixuRzrxBwlWhMRmr8DJtLMYISiHbT3aMJI-jignFNJzmo3NI08e_8o85X6oJVhIHsB1Y2yDHn8P4zN0pf2Rz6EqTV46RFQdxtJZ2VdY-i7vWL9CuNPs7USVyJhhO3Hs1Btz7e7mcKUuo/s320/Screenshot_28-2-2025_214452_.jpeg",
+    "productCategory": "Mugs and Flasks",
+    "productNote": "FLASKS AND BOTTLES"
+  }
+]

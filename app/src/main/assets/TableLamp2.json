@@ -1,0 +1,55 @@
+[
+  {
+    "productName": "Crystal Lamp",
+    "productId": "1",
+    "productPrice": "0",
+    "productDes": "The modern crystal table lamp features a stunning 3D rose design made from high-quality acrylic. With 16 color-changing options and remote or touch control, it sets the perfect ambiance. Dimmable with four modes, it’s an exquisite gift for any occasion.",
+    "productRating": 4.7,
+    "productDisCount": "12%",
+    "productHave": true,
+    "productBrand": "DESK ACCESSORIES\n",
+    "productImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioYllOh8iTO4XayXTFj_mteoxHB0pIPdTBGH2Kcn1RFcf9YrcH6A2UDJz6Jp31CPLoz9pIxqwhM-_rPxysFcrqAI1BGNIKDKH1gu4SnPjD5JAiPoAH7eH2rVJz3Kp2Kqu5pWB4Qisblr1hBK5qHHTunIfAu9FICH-zYfXf7eXgVeIs7jrsyIGsvk42h_yA/s320/Screenshot_9-3-2025_05020_.jpeg",
+    "productCategory": "Table Lamp2",
+    "productNote": "DESK ACCESSORIES"
+  },
+  {
+    "productName": "Desk Lamp with Power Bank",
+    "productId": "2",
+    "productPrice": "0",
+    "productDes": "This is a Portable Power bank with many features. It also holds an extendable table lamp with a long & flexible neck. There are 3 simple gears to adjust the light levels from bright to the brightest. A great desk accessory and gift to give to your employees.\n",
+    "productRating": 3.2,
+    "productDisCount": "",
+    "productHave": false,
+    "productBrand": "DESK ACCESSORIES\n",
+    "productImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguKVveMEaPlUoOJNzeXu0QW7MWRqA-DNZRpHsDmQ0OtxtEEyJ7YvPnz-WrGEClfrnBHXML7TW45ogg1tNcu2AVg1zp8pTd9NlPFrjpFNOXT2v9BSBDQOf38yMDH0BR7eznydBZmO8gD2r-Aw4QIgN2JQuxXJQXIO-wRbOKlbEH3Q3rsfVg-R-pxu_VOryC/s320/Screenshot_28-2-2025_221918_.jpeg",
+    "productCategory": "Table Lamp2",
+    "productNote": "DESK ACCESSORIES\n"
+  },
+  {
+    "productName": "Colour-changing Crystal Table Lamp",
+    "productId": "3",
+    "productPrice": "0",
+    "productDes": " Illuminate your space with this Crystal Lamp, featuring a mesmerizing rose crystal diamond design that adds a touch of glamour and sophistication to any room. With Wireless Touch Control & Remote Magic, this light comes in 16 different colours.",
+    "productRating": 4.2,
+    "productDisCount": "10%",
+    "productHave": true,
+    "productBrand": "DESK ACCESSORIES",
+    "productImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbO2Lvmlaul2qWmmVsv4CAmDD7K5yNcrSkCZ7PeSiMhwjMqrcM5aU_rZXCnlbFro1TjyW5gGNhUhxSYqTYTYzZluaJcoOxnrGHGsP9xqqLCWMllXimtj9RHPKmB4s-1AUybEoSTReCSNn5Ckc3T854N_BjJh_6higd4WdtMhVXUbbeuK3YmmPfTVJC3yqE/s320/Screenshot_9-3-2025_05746_.jpeg",
+    "productCategory": "Table Lamp",
+    "productNote": "DESK ACCESSORIES\n"
+  },
+  {
+    "productName": "Magneto Lamp",
+    "productId": "4",
+    "productPrice": "0",
+    "productDes": "This electric coffee mug is designed to keep your beverage at constant temperature throughout the day, helping you have warm, delicious tea/coffee/soup anytime & anywhere. Made of water-proof tempered glass, the warmer area is 3.5 in diameter.",
+    "productRating": 4.2,
+    "productDisCount": "6%",
+    "productHave": true,
+    "productBrand": "DESK ACCESSORIES",
+    "productImage": "This versatile lamp features a 360° magnetic design with three magnetic balls for easy angle adjustments. Use it as a desk lamp, flashlight, or bedside light. With USB-C charging, touch control, and three brightness levels, it's perfect for reading, camping, or emergencies. Durable and elegant design",
+    "productCategory": "Table Lamp",
+    "productNote": "DESK ACCESSORIES"
+  }
+]
+

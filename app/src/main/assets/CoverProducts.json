@@ -1,0 +1,54 @@
+[
+  {
+    "productName": "Universal Mobile Phone Charging Kit ",
+    "productId": "1",
+    "productPrice": "1499",
+    "productDes": "Made of premium materials, this digital travel kit comes with two slots for nano SIM cards, one slot for a micro SIM card, a SIM eject tool, and a 60W USB type-C cable with 3 different USB adapters. ",
+    "productRating": 4.7,
+    "productDisCount": "12%",
+    "productHave": true,
+    "productBrand": "TECH GADGETS\n",
+    "productImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYBhD1q8sP8j3NZ4B6rU0s_Kymn07Vss7o4hZINoWf6VfCv4WpU_M876d9fbau2VTxOS7HcdwTX2s_1kUnhmzTB6UlNsZF7h-zlHicf8mj5ILjX0asjG0CJICCsgkwhOwV4gPriFdvSfgmhy4z5IzgH1Mr3bbNjdyUjU8YTQVeUB-20qLlpUz-fKRQBVqR/s320/481944577_18297692764242612_876240994448758823_n.jpg",
+    "productCategory": "cover",
+    "productNote": "TECH GADGETS"
+  },
+  {
+    "productName": "Desk Lamp with Power Bank",
+    "productId": "2",
+    "productPrice": "799",
+    "productDes": "This is a Portable Power bank with many features. It also holds an extendable table lamp with a long & flexible neck. There are 3 simple gears to adjust the light levels from bright to the brightest. A great desk accessory and gift to give to your employees.\n",
+    "productRating": 3.2,
+    "productDisCount": "",
+    "productHave": false,
+    "productBrand": "DESK ACCESSORIES\n",
+    "productImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguKVveMEaPlUoOJNzeXu0QW7MWRqA-DNZRpHsDmQ0OtxtEEyJ7YvPnz-WrGEClfrnBHXML7TW45ogg1tNcu2AVg1zp8pTd9NlPFrjpFNOXT2v9BSBDQOf38yMDH0BR7eznydBZmO8gD2r-Aw4QIgN2JQuxXJQXIO-wRbOKlbEH3Q3rsfVg-R-pxu_VOryC/s320/Screenshot_28-2-2025_221918_.jpeg",
+    "productCategory": "Table Lamp",
+    "productNote": "DESK ACCESSORIES\n"
+  },
+  {
+    "productName": "Laptop Bag with Handle & Strap (Black/Brown/Tan) With logo",
+    "productId": "3",
+    "productPrice": "2159",
+    "productDes": "A premium laptop bag with main zip, side zip, handles and strap in a lovely tan colour. A perfect gift for your employees, partners, distributors, clients, etc. to show gratitude for the relationship you share with them. Brand it with your company logo for an impressive and personalized finish.",
+    "productRating": 4.2,
+    "productDisCount": "10%",
+    "productHave": true,
+    "productBrand": "OFFICE/TRAVEL BAGS\n",
+    "productImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBV_zMrvcPs3pS-yCuFImH0NaTyZaQISc-e6tPe7gzQgBUa1IbMiiPK9XqGcr6dbGCxNyUQ2fZ3jb8PWxacUAinL88KivzHl5H2LnSfekBKz7joWCjl8jiqVMGGzg25M0DAukwaZ69GD1iMBEGktw1bxp6D1gbwWClJ17e56-gPxetnDucoTz9ZN_qwL4a/s320/Screenshot_28-2-2025_224125_.jpeg",
+    "productCategory": "",
+    "productNote": "OFFICE/TRAVEL BAGS\n"
+  },
+  {
+    "productName": "Ceramic Coffee Mug with lid",
+    "productId": "4",
+    "productPrice": "100",
+    "productDes": "This electric coffee mug is designed to keep your beverage at constant temperature throughout the day, helping you have warm, delicious tea/coffee/soup anytime & anywhere. Made of water-proof tempered glass, the warmer area is 3.5 in diameter.",
+    "productRating": 4.2,
+    "productDisCount": "6%",
+    "productHave": true,
+    "productBrand": "FLASKS AND BOTTLES",
+    "productImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ6AYDd8vLHACAEts9rFpjNObV3m5EzDcOwnZS4KFhB4lSQMQnixuRzrxBwlWhMRmr8DJtLMYISiHbT3aMJI-jignFNJzmo3NI08e_8o85X6oJVhIHsB1Y2yDHn8P4zN0pf2Rz6EqTV46RFQdxtJZ2VdY-i7vWL9CuNPs7USVyJhhO3Hs1Btz7e7mcKUuo/s320/Screenshot_28-2-2025_214452_.jpeg",
+    "productCategory": "Mugs and Flasks",
+    "productNote": "FLASKS AND BOTTLES"
+  }
+]
