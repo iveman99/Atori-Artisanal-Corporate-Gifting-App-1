@@ -1,6 +1,14 @@
 # 🎁 Atori – Corporate Gifting Android App  
 
-Made with Android (Kotlin, XML, Firebase)  
+## 🛠 Tech Used  
+
+Made with:  
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> 
+<img src="https://tse3.mm.bing.net/th/id/OIP.7eFcqoqtA1dybTwdn7zQ4gHaGy?pid=Api&P=0&h=180.svg" alt="XML" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>  
+  
 Status: Completed  
 License: MIT  
 
