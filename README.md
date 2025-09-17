@@ -89,7 +89,7 @@ Through this project, I learned:
 
 ## 👨‍💻 Author  
 
-**Mahima Choudhary**  
+**Veman .S.Chippa**  
 
 ---
 
